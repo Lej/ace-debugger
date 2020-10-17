@@ -1,0 +1,6 @@
+## Interface: 90001
+## Title: AceDebugger
+## Author: Lej
+## Version: 1.0
+embeds.xml
+Core.lua
